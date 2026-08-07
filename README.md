@@ -35,6 +35,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláve
 ![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
 ![Google reCAPTCHA](https://img.shields.io/badge/Google_reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![BCrypt](https://img.shields.io/badge/BCrypt-333333?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Apache Shiro](https://img.shields.io/badge/Apache_Shiro-1C2833?style=for-the-badge&logo=apache&logoColor=white)
 #### ⚙️ DevOps, Testes & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
