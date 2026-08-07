@@ -7,6 +7,11 @@ Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláve
 
 ### 🛠️ Tech Stack & Ferramentas
 
+#### 📐 Arquitetura de Software
+![Software Architecture](https://img.shields.io/badge/Arquiteto_de_Software-4682B4?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=architecture&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microsserviços-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white)
+![UML](https://img.shields.io/badge/UML-005571?style=for-the-badge&logo=uml&logoColor=white)
 #### ☕ Backend & Java
 ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java 8](https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,7 +43,8 @@ Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláve
 ![Google reCAPTCHA](https://img.shields.io/badge/Google_reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![BCrypt](https://img.shields.io/badge/BCrypt-333333?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Apache Shiro](https://img.shields.io/badge/Apache_Shiro-1C2833?style=for-the-badge&logo=apache&logoColor=white)
-#### ⚙️ DevOps, Testes & Ferramentas
+#### ⚙️ Gerência de Configuração, DevOps & Ferramentas
+![Gerência de Configuração](https://img.shields.io/badge/Gerência_de_Configuração-0052CC?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
