@@ -1,7 +1,13 @@
 # Olá, eu sou Robson Carlos 👋
-### Full-Stack Java Specialist | Backend Architecture & Spring Ecosystem
+
+### 👨‍💻 Full-Stack Java Specialist | Backend Architecture & Spring Ecosystem
 
 Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláveis e seguras. Minha atuação principal é no ecossistema **Java**, aplicando boas práticas de arquitetura de software, padrões de projeto (Design Patterns), segurança moderna e código limpo.
+
+* **Architectural Excellence:** Aplicação prática de *Clean Architecture*, *DDD*, *SOLID* e *Design Patterns* para sistemas escaláveis.
+* **Backend Mastery:** Construção de APIs RESTful e microsserviços utilizando **Java** e o ecossistema **Spring**.
+* **Security-First:** Implementação robusta de fluxos de autenticação e autorização com **OAuth2**, **OpenID Connect**, **JWT** e criptografia avançada.
+* **End-to-End Delivery:** Integração com interfaces reativas no Frontend (**React, Angular, JSF/PrimeFaces**) e automação de ambientes via **Docker**, **GitLab CI/CD** e **Flyway**.
 
 ---
 
