@@ -22,6 +22,8 @@ Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláve
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=jakartaee&logoColor=white)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-2196F3?style=for-the-badge&logo=primefaces&logoColor=white)
 #### 🗄️ Bancos de Dados & Migração
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
