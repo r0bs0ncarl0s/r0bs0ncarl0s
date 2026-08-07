@@ -7,7 +7,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações escaláveis, segura
 * **Architectural Excellence:** Aplicação prática de *Clean Architecture*, *DDD*, *SOLID* e *Design Patterns* para sistemas manuteníveis.
 * **Backend Core:** Construção de APIs RESTful e microsserviços utilizando **Java** e o ecossistema **Spring**.
 * **Security-First:** Implementação de fluxos de autenticação e autorização com **OAuth2**, **OpenID Connect**, **JWT**, **BCrypt** e criptografia.
-* **End-to-End Delivery:** Integração com interfaces no Frontend (**React, Angular, JSF/PrimeFaces**) e automação de ambientes via **Docker**, **GitLab CI/CD** e **Flyway**.
+* **End-to-End Delivery:** Integração com interfaces no Frontend (**React, JSF/PrimeFaces**) e automação de ambientes via **Docker**, **GitLab CI/CD** e **Flyway**.
 
 ---
 
