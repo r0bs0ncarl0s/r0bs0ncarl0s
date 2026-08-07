@@ -64,5 +64,5 @@ API RESTful backend moderna construída com Java 21 e Spring Boot 3.2, voltada p
 
 ### 📫 Como me encontrar
 
-* 💼 **LinkedIn:** [robson-carlos-figueiredo](www.linkedin.com/in/robson-carlos-figueiredo-b0475520)
+* 💼 **LinkedIn:** [robson-carlos-figueiredo](https://www.linkedin.com/in/robson-carlos-figueiredo-b0475520/)
 * ✉️ **E-mail:** [r0bs0ncarl0s@hotmail.com](mailto:r0bs0ncarl0s@hotmail.com)
