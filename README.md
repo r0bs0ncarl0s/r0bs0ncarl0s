@@ -1,3 +1,12 @@
+# Olá, eu sou Robson Carlos 👋
+### Full-Stack Java Specialist | Backend Architecture & Spring Ecosystem
+
+Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláveis e seguras. Minha atuação principal é no ecossistema **Java**, aplicando boas práticas de arquitetura de software, padrões de projeto (Design Patterns), segurança moderna e código limpo.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
 ### ☕ Backend & Java
 
 ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,31 +34,25 @@
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+### 🛡️ Segurança & Auth
+![OAuth2](https://img.shields.io/badge/OAuth2-3D82F6?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![Google reCAPTCHA](https://img.shields.io/badge/Google_reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-333333?style=for-the-badge&logo=springsecurity&logoColor=white)
+
 ### ⚙️ DevOps, Testes & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C52F24?style=for-the-badge&logo=mockito&logoColor=white)
+![AssertJ](https://img.shields.io/badge/AssertJ-25A162?style=for-the-badge&logo=assertj&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-# Olá, eu sou Robson Carlos 👋
-### Full-Stack Java Specialist | Backend Architecture & Spring Ecosystem
-
-Desenvolvedor Full-Stack focado na criação de aplicações robustas, escaláveis e seguras. Minha atuação principal é no ecossistema **Java**, aplicando boas práticas de arquitetura de software, padrões de projeto (Design Patterns), segurança moderna e código limpo.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend & Core** | Java (8+), Spring Boot, Spring Security, Spring Data JPA, Hibernate, MapStruct |
-| **Segurança & Auth** | OAuth2, JWT, OpenID Connect, Google reCAPTCHA, BCrypt |
-| **Frontend** | JavaScript (Vanilla), HTML5, CSS3, Bootstrap 5 |
-| **Bancos de Dados** | Oracle, PostgreSQL, MySQL, H2 Database (In-Memory) |
-| **Testes & Qualidade** | JUnit 5, Mockito, AssertJ |
-| **DevOps & Ferramentas** | Docker, Git, GitHub Actions (CI/CD), Maven, Postman / Insomnia |
+![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
