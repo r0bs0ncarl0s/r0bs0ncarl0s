@@ -60,6 +60,7 @@ Desenvolvedor Full-Stack focado na criação de aplicações escaláveis, segura
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Apache SVN](https://img.shields.io/badge/Apache_SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-C52F24?style=for-the-badge&logo=mockito&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/AssertJ-25A162?style=for-the-badge&logo=assertj&logoColor=white)
