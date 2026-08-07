@@ -53,12 +53,24 @@ API RESTful backend moderna construída com Java 21 e Spring Boot 3.2, voltada p
 
 ---
 
+### ⚙️ Boas Práticas e Engenharia de Software
 
-### ⚙️ Boas Práticas e Engenharia
-
-* **Clean Code & SOLID**: Código declarativo, métodos coesos e baixo acoplamento.
-* **Padronização no Git**: Histórico limpo com [Conventional Commits](https://www.conventionalcommits.org/).
-* **Segurança por Padrão**: Sanitização de dados, proteção CSRF/CORS e gerenciamento seguro de credenciais via variáveis de ambiente.
+* **Clean Architecture & SOLID**: Separação clara de responsabilidades entre camadas (Controllers, Services, Repositories, DTOs e Mappers), garantindo baixo acoplamento e alta coesão.
+* **Segurança por Padrão (Security-First)**:
+  * Autenticação Stateless (JWT) e OAuth2 com permissões refinadas via Spring Security.
+  * Sanitização de dados de entrada, proteção contra CSRF/CORS e validação de requisições automatizadas (reCAPTCHA).
+  * Gestão segura de credenciais usando variáveis de ambiente e arquivos `.env` (nunca expostos no controle de versão).
+* **Mapeamento Performático**: Padrão DTO implementado com **MapStruct**, garantindo conversões do/para o banco em tempo de compilação sem overhead de *reflection*.
+* **Resiliência & Tolerância a Falhas**: Aplicação do padrão **Circuit Breaker** (com Resilience4j) e estratégias de **Dead Letter Queue (DLQ)** para tratamento elegante de falhas em integrações externas (HTTP/SOAP).
+* **Concorrência Otimizada**: Uso consciente de processamento assíncrono (`CompletableFuture`), pools de threads customizados (`ThreadPoolExecutor`) e logging não-bloqueante via Log4j2 + LMAX Disruptor.
+* **Gestão e Versionamento de Banco de Dados**: Controle de evolução de schemas via **Flyway Migrations**, garantindo compilações e deploys reprodutíveis.
+* **Qualidade de Código & Testes**:
+  * Testes unitários e de integração utilizando **JUnit 5**, **Mockito** e **Spring Security Test**.
+  * Código declarativo e conciso com suporte ao Java 17+ / Java 21 e Lombok.
+* **Padronização Git & CI/CD**:
+  * Histórico de commits claro usando o padrão **Conventional Commits** (`feat:`, `fix:`, `refactor:`).
+  * Estruturação de `.gitignore` rigorosa para isolar binários (`target/`), arquivos de configuração local e chaves de segurança.
+  * Automação de builds e testes via **GitHub Actions**. 
 
 ---
 
